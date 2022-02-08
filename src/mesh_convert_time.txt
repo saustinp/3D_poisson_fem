@@ -1,0 +1,9 @@
+File,name,time,wc_time,time,cpu_time
+File,1.bdf,wall_clock,0.006324056999801542,cpu_time,0.0038748509999999986
+File,2.bdf,wall_clock,0.012287162999200518,cpu_time,0.009824657
+File,3.bdf,wall_clock,0.03456352300054277,cpu_time,0.030463164
+File,4.bdf,wall_clock,0.05913060199964093,cpu_time,0.056642083999999995
+File,5.bdf,wall_clock,0.17819048400087922,cpu_time,0.174102346
+File,6.bdf,wall_clock,0.993968794000466,cpu_time,0.9891700049999999
+File,7.bdf,wall_clock,4.260828714999661,cpu_time,4.247190655
+File,8.bdf,wall_clock,22.516327365998222,cpu_time,22.492643527
